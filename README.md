@@ -7,11 +7,17 @@ insert into Server.CFG!!!!
 
 ####Ped Menu!####
 add_principal identifier.steam: group. YlMenu  #
+
 add_principal identifier.steam: group. YlMenu  #
+
 add_principal identifier.steam: group. YlMenu  #
+
 add_principal identifier.steam: group. YlMenu  #
+
 add_principal identifier.steam: group. YlMenu  #
+
 add_principal identifier.steam: group. YlMenu  #
+
 add_principal identifier.steam: group. YlMenu  #
 
 
